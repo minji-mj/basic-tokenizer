@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ensc251part2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  tokenClassifier.cpp
+src\tokenClassifier.cpp(39): fatal error C1083: Cannot open include file: 'Part1Tokenizer.hpp': No such file or directory
+  tokenClasses.cpp
+src\tokenClasses.cpp(5): fatal error C1083: Cannot open include file: 'cxxabi.h': No such file or directory
+  TestPart2.cpp
+src\TestPart2.cpp(39): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  Generating Code...
