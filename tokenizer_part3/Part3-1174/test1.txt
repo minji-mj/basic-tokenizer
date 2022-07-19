@@ -1,0 +1,9 @@
+             Books	| 0    -textfile.txt
+           Course1	| 0  
+          Lectures	| 2    -bitmap.bmp  -spreadsheet.xlsx
+           Course2	| 0  
+             Music	| 0    -songs.zip
+             Notes	| 1    -first.txt
+               One	| 0  
+             Video	| 0  
+      testDirectory	| 5    -mainFile.txt

@@ -1,0 +1,12 @@
+Destroying TreeNode with 5 children.
+Destroying TreeNode with 0 children.
+Destroying TreeNode with 2 children.
+Destroying TreeNode with 0 children.
+Destroying TreeNode with 0 children.
+Destroying TreeNode with 0 children.
+Destroying TreeNode with 1 children.
+Destroying TreeNode with 0 children.
+Destroying TreeNode with 0 children.
+           Course1	| 0  
+          Lectures	| 2    -bitmap.bmp  -spreadsheet.xlsx
+           Course2	| 0 
